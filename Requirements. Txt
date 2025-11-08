@@ -1,7 +1,8 @@
-streamlit
-yfinance
-pandas
-numpy
-requests
+
+flask
 openai
-scipy
+requests
+beautifulsoup4
+pandas
+yfinance
+gunicorn
